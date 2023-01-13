@@ -16,6 +16,11 @@ A non exaustive list of skills/methods we are going to focus on:
 - Data Vizualisation
 
 
+<br>
+
+
+<br>
+
 
 *Advanced Data Visualization with R and Ggplot2*.
 
