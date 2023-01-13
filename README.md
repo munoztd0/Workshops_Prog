@@ -12,14 +12,18 @@ A non exaustive list of skills/methods we are going to focus on:
 - Version control and code availability (github)
 - Terminal familiarity
 - Automatisation (creating functions)
-- Data wrangling and vizualisation
+- Data wrangling and 
+- Data Vizualisation
 
 
 
-*Advanced Data Visualization with R and Ggplot2*. 
+*Advanced Data Visualization with R and Ggplot2*.
 
-Why?: The scientific literature is riddled with bad charts and graphs, leading to misunderstanding and worse... Avoiding design missteps can improve understanding of research.  
+*What*: The grammar of graphics is a way of thinking about how graphs are constructed that allows data analysts to move beyond thinking about a small number of graph types (like bar graphs, line graphs, scatter plots, etc).
+
+*Why*: The scientific literature is riddled with bad charts and graphs, leading to misunderstanding and worse... Avoiding design missteps can improve understanding of research. When it comes to practical usage, data visualization is as important as any other part of science could be, especially when it comes to practical use. 
 <!--- https://knowablemagazine.org/article/mind/2019/science-data-visualization --->
+
 
 This practical will teach you the major components of the *Grammar of Graphics*:
 - *Aesthetics*: Identify the dimensions you want to visualize, confirm the axes based on the data dimensions, positions of various data points in the plot. 
@@ -28,7 +32,7 @@ This practical will teach you the major components of the *Grammar of Graphics*:
 - *Statistics*: Do we need to show some statistical measures in the visualization like measures of central tendency, spread, confidence intervals?
 - *Facets*: Do we need to create subplots based on specific data dimensions?
 
-We will use different real world example to apply these concepts, such as:
+We will use different real world example to apply these concepts, adn learn which appropriate visualizations to represent your data.
 - *Correlation*: scatterplot and bubble plot
 - *Distribution*: histogram, density and boxplot.
 - *Ranking*: barplot, lollipop and treemap.
@@ -41,6 +45,10 @@ We will use different real world example to apply these concepts, such as:
 
 *Data wrangling with R*
 
+*What*: Data wrangling is the process of converting and mapping raw data and getting it ready for analysis. 
+
+*Why*: With the world of data rapidly expanding, it is becoming increasingly essential to get the right data to be organized for analysis. Hence, it is important to make raw data usable for stastitical methos.
+
 
 Learning Objectives:
 
@@ -50,11 +58,42 @@ Learning Objectives:
 - Add new columns to a data frame that are functions of existing columns with *mutate*.
 - Understand the *split-apply-combine* concept for data analysis.
 - Use *summarize*, *group_by*, and *count* to split a data frame into groups of observations, apply a summary statistics for each group, and then combine the results.
-- Joining tables by a common variable.
+- *Joining* tables by a common variable.
 - Learning how to pivot from wide to long data (and the other way around) with *pivot_longer* and *pivot_wider*. 
 
 
 
+<br>
+
+*ANOVAs in R: A complete guide*
+
+*What*: Analysis of Variance (ANOVA) is a family of statistical tests that are useful when comparing several sets of scores. A common application of ANOVA is to test if the means of three or more groups are equal. The basic idea behind ANOVA is a comparison of the variance between the groups and the variance within the groups.
+
+*Why*: A key statistical test in research fields including biology, economics and psychology, is the analysis of variance (ANOVA). However thez are not taught in most Bachelor curriculum (and is not even taught in the Master of Neuroscience).
+
+Learning Objectives:
+
+- Linear regression reminder
+- The different ANOVA tests (One-way, Two-way, Repeated Measures)
+- Interactions between variables and covariates
+- Finding the best-fit model 
+- Checking your assumptions
+- Post-hoc test
+- Plot results 
+- Report the results
+
+
+
+<br>
+
+*Multilevel Modeling in R*
+
+*What*:
+*Why*: 
+
+Learning Objectives:
+
+- 
 
 
 
