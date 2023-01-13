@@ -44,7 +44,7 @@ We will use different real world example to apply these concepts, adn learn whic
 - *Evolution*: line plot and area chart.
 
 
-
+<br>
 
 <br>
 
@@ -66,7 +66,7 @@ Learning Objectives:
 - *Joining* tables by a common variable.
 - Learning how to pivot from wide to long data (and the other way around) with *pivot_longer* and *pivot_wider*. 
 
-
+<br>
 
 <br>
 
@@ -87,7 +87,7 @@ Learning Objectives:
 - Plot results 
 - Report the results
 
-
+<br>
 
 <br>
 
@@ -100,7 +100,7 @@ Learning Objectives:
 
 - 
 
-
+<br><br>
 
 ## R Lunches 
 
