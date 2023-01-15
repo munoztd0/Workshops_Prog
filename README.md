@@ -14,6 +14,8 @@ A non exaustive list of skills/methods we are going to focus on:
 - Multilevel modeling
 - Bayesian approach
 
+<br><br>
+
 <ins>*Advanced Data Visualization with R and Ggplot2.*</ins>
 
 *What*: The grammar of graphics is a way of thinking about how graphs are constructed that allows data analysts to move beyond thinking about a small number of graph types (like bar graphs, line graphs, scatter plots, etc).
@@ -35,6 +37,10 @@ We will use different real world example to apply these concepts, adn learn whic
 - *Ranking*: barplot, lollipop and treemap.
 - *Evolution*: line plot and area chart.
 
+
+<br><br>
+
+
 <ins>*Data wrangling with R*</ins>
 
 *What*: Data wrangling is the process of converting and mapping raw data and getting it ready for analysis.
@@ -51,6 +57,9 @@ Learning Objectives:
 - Use *summarize*, *group_by*, and *count* to split a data frame into groups of observations, apply a summary statistics for each group, and then combine the results.
 - *Joining* tables by a common variable.
 - Learning how to pivot from wide to long data (and the other way around) with *pivot_longer* and *pivot_wider*.
+
+
+<br><br>
 
 <ins>*ANOVAs in R: A complete guide*</ins>
 
@@ -69,6 +78,10 @@ Learning Objectives:
 - Plot results
 - Report the results
 
+
+<br><br>
+
+
 <ins>*Multilevel Modeling in R*</ins>
 
 *What*: The general aim of multilevel modeling is to simultaneously analyze data at a lower level (usually participants) and at a higher level (usually clusters of participants). In other words, multilevel modeling enables one to disentangle the effects of lower-level variables (e.g., individual effects) from the effects of higher-level variables (e.g., contextual effects) and examine how lower-level and higher-level variables interact with one another (interactions involving variables at different levels are called ‘cross-level interactions’).
@@ -82,6 +95,10 @@ Learning Objectives:
 - Interpret the results and check the assumptions.
 - Addressing multilevel modeling issues pertaining to statistical power, effect sizes, complex design, and nonlinear regression.
 - Differences between repeated measure ANOVAs and MLM.
+
+
+<br><br>
+
 
 <ins>*Bayesian in R*</ins>
 
@@ -102,6 +119,10 @@ Learning Objectives:
 - Bayesian model comparison: Baye's Factor
 - Bayesian Approaches to Testing a Point (“Null”) Hypothesis
 - Full on Bayesian analysis in R with {brms}
+
+
+<br><br>
+
 
 ## R Lunches
 
@@ -126,6 +147,9 @@ Tuesday (12pm-13pm), 4 May 2023, Zoom [Zoom link (soon)](https://we-data-ch.gith
 
 Tuesday (12pm-13pm), 4 May 2023, UniMail M4050 [Zoom link (soon)](https://we-data-ch.github.io/workshops/XXX)
 <ins>*{[hayalbaz](https://github.com/rundel/hayalbaz)}: Scrapping dynamic web page without dependencies in R*</ins> - Vestin Hategekimana (University of Geneva)
+
+
+<br><br>
 
 ## Other ressources that I put available
 
