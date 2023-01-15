@@ -1,6 +1,6 @@
 ## Workshops
 
-The main goal of these workshop series is to create the oppurtunity for Neuroscience/Pscyhology master students to improve their skills in data wrangling through active problem solving (with hints and guidelines) that are representative of ‘real world’ problems that one will probably encounter in cogntive/affective neuroscience research.
+The main goal of these workshop series is to create the oppurtunity for Neuroscience/Pscyhology master students to improve their skills in data wrangling and statistics through active problem solving (with hints and guidelines) that are representative of ‘real world’ problems that one will probably encounter in cogntive/affective neuroscience research.
 
 A non exaustive list of skills/methods we are going to focus on:
 
