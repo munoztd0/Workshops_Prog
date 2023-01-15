@@ -100,7 +100,7 @@ Learning Objectives:
 <br><br>
 
 
-<ins>*Bayesian in R*</ins>
+<ins>*Bayesian Analysis in R*</ins>
 
 *What*: The frequentist approach assigns probabilities to data, not to hypotheses, whereas the Bayesian approach assigns probabilities to hypotheses. Furthermore, Bayesian models incorporate prior knowledge into the analysis, updating hypotheses probabilities as more data become available.
 
