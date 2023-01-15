@@ -24,7 +24,7 @@ A non exaustive list of skills/methods we are going to focus on:
 <br>
 
 
-*Advanced Data Visualization with R and Ggplot2*.
+_*Advanced Data Visualization with R and Ggplot2*._
 
 *What*: The grammar of graphics is a way of thinking about how graphs are constructed that allows data analysts to move beyond thinking about a small number of graph types (like bar graphs, line graphs, scatter plots, etc).
 
